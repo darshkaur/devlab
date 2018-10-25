@@ -1,13 +1,27 @@
 
+
+
+.yellow {
+    background-color: yellow;
+}
+
+
+.lightblue {
+background-color: lightblue;
+
+}
+
+.green {
+    background-color: green;
     
-div {
+    }
 
-    font-size: 80px;
-    background-color:aquamarine; 
-    margin: 15px;
+    .purple {
+     background-color: purple;
+        
+        }
 
-}
-
-.div1 {
-    background-color: black;
-}
+ .salmon {
+        background-color: salmon;
+            
+            }
